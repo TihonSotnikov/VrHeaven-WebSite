@@ -278,6 +278,9 @@ ul { list-style: none; }
     .hide-on-mobile { display: none; }
     .show-on-mobile { display: inline; }
 
+    /* 0. Поднимаем весь стартовый блок (картинка, надписи, кнопки, плашка) выше */
+    .hero { padding-top: 24px; }
+
     /* 1. Верхняя плашка доставки — компактнее
           (высота ~ -20%, вертикальные отступы ~ -10%, текст ~ -13%) */
     .hero__action-plaque { padding-top: 3.6px !important; padding-bottom: 3.6px !important; }
