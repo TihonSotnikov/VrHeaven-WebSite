@@ -247,8 +247,8 @@ ul { list-style: none; }
 .footer__desc { max-width: 600px; margin: 0 auto var(--spacing-40); }
 
 /* Custom Modal */
-.modal-overlay { position: fixed; inset: 0; background: rgba(0, 0, 0, 0.8); backdrop-filter: blur(4px); display: flex; align-items: center; justify-content: center; z-index: 2000; opacity: 0; pointer-events: none; transition: opacity 0.3s ease; padding: 20px; }
-.modal-overlay.active { opacity: 1; pointer-events: auto; }
+.modal-overlay { position: fixed; inset: 0; background: rgba(0, 0, 0, 0.8); backdrop-filter: blur(4px); display: flex; align-items: center; justify-content: center; z-index: 2000; opacity: 0; visibility: hidden; pointer-events: none; transition: opacity 0.3s ease, visibility 0s linear 0.3s; padding: 20px; }
+.modal-overlay.active { opacity: 1; visibility: visible; pointer-events: auto; transition: opacity 0.3s ease; }
 .modal-dialog { max-width: 400px; width: 100%; transform: translateY(20px) scale(0.95); transition: transform 0.3s var(--ease-smooth); }
 .modal-overlay.active .modal-dialog { transform: translateY(0) scale(1); }
 .modal-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
