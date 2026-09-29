@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-a8c8f0?style=flat&logo=html5&logoColor=white" alt="HTML 5">
-  <img src="https://img.shields.io/badge/CSS-3-a8c8f0?style=flat&logo=css&logoColor=white" alt="CSS 3">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-a8c8f0?style=flat&logo=javascript&logoColor=white" alt="JavaScript ES6">
-  <img src="https://img.shields.io/badge/hosting-GitHub%20Pages-b8e0d2?style=flat&logo=githubpages&logoColor=white" alt="GitHub Pages">
-  <img src="https://img.shields.io/badge/license-proprietary-d4c8f0?style=flat" alt="License: proprietary">
+  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML 5">
+  <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS 3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript ES6">
+  <img src="https://img.shields.io/badge/hosting-GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/license-proprietary-red?style=flat" alt="License: proprietary">
 </p>
 
 <p align="center">
